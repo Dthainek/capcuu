@@ -1,0 +1,6 @@
+{
+  "name": "ABG-ECG Clinical Console — Đọc Khí Máu, Điện Giải & Điện Tâm Đồ",
+  "description": "Công cụ hỗ trợ lâm sàng đọc kết quả khí máu động mạch/tĩnh mạch, điện giải đồ và điện tâm đồ cấp cứu chuẩn hóa cho GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
